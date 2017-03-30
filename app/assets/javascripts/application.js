@@ -58,6 +58,6 @@ app.controller('TaskNewCtrl', [
  '$scope',
  '$http',
  function($scope){
-     $scope.raghu = ["aparna","aparna","aparna","aparna","aparna","aparna","aparna","aparna","aparna","aparna"];
+     $scope.raghu = ["nyros","nyros","nyros","nyros","nyros","nyros","nyros","nyros","nyros","nyros"];
      
 }]);
